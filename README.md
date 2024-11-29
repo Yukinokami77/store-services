@@ -13,3 +13,4 @@
 2. Перейдите в папку проекта и запустите:
   mvn clean install
   mvn quarks:dev
+Докер работает, но выложить его в docker.desktop выложить не получилось, потому что зависает на "[build 6/6] RUN mvn clean package -DskipTests".
