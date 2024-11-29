@@ -11,6 +11,6 @@
 ## Запуск проекта
 1. Клонируйте этот репозиторий: `git clone https://github.com/Yukinokami77/store-services.git`
 2. Перейдите в папку проекта и запустите:
-  mvn clean install
+  mvn clean install -DskipTests
   mvn quarks:dev
 Докер работает, но выложить его в docker.desktop выложить не получилось, потому что зависает на "[build 6/6] RUN mvn clean package -DskipTests".
