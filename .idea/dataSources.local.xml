@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-242.23726.103">
+    <data-source name="store_db@localhost" uuid="498b9eaf-7750-4173-a53a-c7ccfcc2b19c">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" />
+      <user-name>store_user</user-name>
+      <schema-mapping />
+    </data-source>
+    <data-source name="redis@localhost" uuid="bbae0f5f-587d-4c7f-b51f-0a89ef969813">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="REDIS" />
+      <schema-mapping />
+    </data-source>
+    <data-source name="mydb@localhost" uuid="9b194fa5-f53c-4cbf-9d6a-da0cd020f972">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" />
+      <user-name>product</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
